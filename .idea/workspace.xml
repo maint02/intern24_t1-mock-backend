@@ -197,7 +197,7 @@
       <workItem from="1579243811837" duration="626000" />
       <workItem from="1579245969421" duration="27000" />
       <workItem from="1579246029838" duration="83000" />
-      <workItem from="1579246206954" duration="3536000" />
+      <workItem from="1579246206954" duration="3781000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1579253577051</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579253577051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="a">
+      <created>1579254315467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579254315467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,10 +248,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="28" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579184581312" />
-    <state x="491" y="120" key="CommitChangelistDialog2" timestamp="1579253711681">
+    <state x="491" y="120" key="CommitChangelistDialog2" timestamp="1579254446730">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="491" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579253711681" />
+    <state x="491" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254446730" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1579165594895">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
