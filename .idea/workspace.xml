@@ -104,6 +104,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder/mockup-angular-v2.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Spring Boot.ProjectServiceApplication">
     <configuration name="All in project-service (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -248,10 +249,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="28" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579184581312" />
-    <state x="491" y="120" key="CommitChangelistDialog2" timestamp="1579254446730">
+    <state x="491" y="120" key="CommitChangelistDialog2" timestamp="1579254474677">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="491" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254446730" />
+    <state x="491" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254474677" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1579165594895">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -304,6 +305,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579251575839" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1579254601660">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579254601660" />
+    <state x="552" y="247" key="Vcs.Push.Dialog.v2" timestamp="1579254503941">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="247" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254503941" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1579228790610">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
