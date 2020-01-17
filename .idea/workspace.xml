@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff44e362-4a06-4c28-8efb-1b3554026881" name="Default Changelist" comment="a">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ff44e362-4a06-4c28-8efb-1b3554026881" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hieunt" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,7 +197,7 @@
       <workItem from="1579243811837" duration="626000" />
       <workItem from="1579245969421" duration="27000" />
       <workItem from="1579246029838" duration="83000" />
-      <workItem from="1579246206954" duration="3781000" />
+      <workItem from="1579246206954" duration="4053000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1579253577051</created>
@@ -215,7 +213,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579254315467</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="a">
+      <created>1579254475220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579254475220</updated>
+    </task>
+    <task id="LOCAL-00004" summary="a">
+      <created>1579254641051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579254641051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a">
+      <created>1579254655571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579254655571</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,10 +269,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="28" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579184581312" />
-    <state x="491" y="120" key="CommitChangelistDialog2" timestamp="1579254640438">
+    <state x="491" y="120" key="CommitChangelistDialog2" timestamp="1579254655048">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="491" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254640438" />
+    <state x="491" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254655048" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1579165594895">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -310,10 +329,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579254601660" />
-    <state x="552" y="247" key="Vcs.Push.Dialog.v2" timestamp="1579254503941">
+    <state x="552" y="247" key="Vcs.Push.Dialog.v2" timestamp="1579254666101">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="247" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254503941" />
+    <state x="552" y="247" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579254666101" />
     <state x="769" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579254644240">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
